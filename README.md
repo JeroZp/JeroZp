@@ -13,7 +13,7 @@
   [![](https://img.shields.io/badge/linkedin-0a66c2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/jer%C3%B3nimo-p%C3%A9rez-baquero-05a042348/))
   ![](https://komarev.com/ghpvc/?username=JeroZp&color=green)
 <pre>
-    💼A Software engineering student at EAFIT University...                     
+    💼 A Software engineering student at EAFIT University...                     
     💻 How to reach me jperezb5@eafit.edu.co / perezjeronimo35@gmail.com
 </pre>
 
