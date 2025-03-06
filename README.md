@@ -32,7 +32,7 @@
  <br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,,go,rust,c,cpp,cs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,,java,go,rust,c,cpp,cs" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@
  
  <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,django,htmx,nodejs,,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,django,spring,htmx,nodejs,,html,css,bootstrap" />
   </a>
 </p>
 
